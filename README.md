@@ -2,9 +2,9 @@
 
 One-sentence pitch for the make.fun bounty **The Worst App Idea Ever Pitched** — an app idea so useless it sounds like a founder who means every word.
 
-[![make.fun · u-plucky-sparrow-67-the-worst-app-idea-ever-pitched](https://make.fun/badge/u-plucky-sparrow-67-the-worst-app-idea-ever-pitched.svg)](https://make.fun/bounty/u-plucky-sparrow-67-the-worst-app-idea-ever-pitched?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-sparrow-67-the-worst-app-idea-ever-pitched)
-[![make.fun · u-plucky-sparrow-67-the-worst-app-idea-ever-pitched · rank](https://make.fun/badge/u-plucky-sparrow-67-the-worst-app-idea-ever-pitched/turibaru/worst-app-idea-ever-pitched/rank.svg)](https://make.fun/bounty/u-plucky-sparrow-67-the-worst-app-idea-ever-pitched/leaderboard)
-[![make.fun · u-plucky-sparrow-67-the-worst-app-idea-ever-pitched · reward](https://make.fun/badge/u-plucky-sparrow-67-the-worst-app-idea-ever-pitched/turibaru/worst-app-idea-ever-pitched/reward.svg)](https://make.fun/bounty/u-plucky-sparrow-67-the-worst-app-idea-ever-pitched)
+[![make.fun · u-plucky-sparrow-67-the-worst-app-idea-ever-pitched-a0396b23](https://make.fun/badge/u-plucky-sparrow-67-the-worst-app-idea-ever-pitched-a0396b23.svg)](https://make.fun/bounty/u-plucky-sparrow-67-the-worst-app-idea-ever-pitched-a0396b23?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-sparrow-67-the-worst-app-idea-ever-pitched-a0396b23)
+[![make.fun · u-plucky-sparrow-67-the-worst-app-idea-ever-pitched-a0396b23 · rank](https://make.fun/badge/u-plucky-sparrow-67-the-worst-app-idea-ever-pitched-a0396b23/turibaru/worst-app-idea-ever-pitched/rank.svg)](https://make.fun/bounty/u-plucky-sparrow-67-the-worst-app-idea-ever-pitched-a0396b23/leaderboard)
+[![make.fun · u-plucky-sparrow-67-the-worst-app-idea-ever-pitched-a0396b23 · reward](https://make.fun/badge/u-plucky-sparrow-67-the-worst-app-idea-ever-pitched-a0396b23/turibaru/worst-app-idea-ever-pitched/reward.svg)](https://make.fun/bounty/u-plucky-sparrow-67-the-worst-app-idea-ever-pitched-a0396b23)
 
 ## Entry
 
